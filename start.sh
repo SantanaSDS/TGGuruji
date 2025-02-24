@@ -1,2 +1,2 @@
 #!/bin/bash
-python guruji_bot.py
+python guruji.py
